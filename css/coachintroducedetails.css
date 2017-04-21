@@ -1,0 +1,49 @@
+body{
+	background-color: #eee;
+	cursor:default;
+}
+.logo{
+	text-align:center;
+	font-size:15px;
+	color:#888888;
+	margin-top:15px;
+}
+.coach-container{
+	margin:15px 3% 0px 3%;
+	width:94%;
+	height:26%;
+	background-image:url('../images/coach1.jpg');
+	background-size:cover;
+	display:flex;
+	flex-wrap:wrap;
+	border-radius:15px 15px 0px 0px;
+}
+.coach-name{
+	padding-top:30%;
+	margin-left:15%;
+	font-size:25px;
+	color:#303F9F;
+	font-weight:bold;
+}
+.ic-star{
+	width:50px;
+	height:50px;
+	margin-top:37%;
+	margin-left:40%;
+}
+.coach-introduce{
+	margin:0px 3% 20px 3%;
+	padding:2% 3% 2% 3%;
+	background:#FFF;
+	font-size:18px;
+	height:auto;
+	width:88%;
+	border-radius:0px 0px 15px 15px;
+}
+.coach-cluase{
+	color:#303F9F;
+	font-size:23px;
+}
+.coach-content{
+	text-indent:25px;
+}

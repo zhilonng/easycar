@@ -1,0 +1,58 @@
+body{
+	background-color: #eee;
+	cursor:default;
+}
+.logo{
+	text-align:center;
+	font-size:15px;
+	color:#888888;
+	margin-top:15px;
+}
+.compintr-ul{
+	color:#000;
+	background:#FFF;
+	padding:10px 5px 10px 10px;
+	margin:10px 5px 0px 5px;
+}
+.hover-compintr-ul{
+	background:#000;
+	filter:alpha(opacity=60); /*IE滤镜，透明度50%*/
+	-moz-opacity:0.6; /*Firefox私有，透明度50%*/
+	opacity:0.6;/*其他，透明度50%*/
+	padding:10px 5px 10px 10px;
+	margin:10px 5px 0px 5px;
+}
+.toggle-compintr-ul{
+	color:red;
+	background:#FFF;
+	padding:10px 5px 10px 10px;
+	margin:10px 5px 0px 5px;
+}
+.compintr-item{
+	float:left;
+}
+.presss-compintr-item{
+	float:left;
+	color:#888888;
+}
+.compintr-content{
+	background:#FFF;
+	font-size:13px;
+	color:#888888;
+	padding:10px 5px 10px 10px;
+	margin:0px 5px 0px 5px;
+}
+.develop-timeline{
+	background:#FFF;
+	font-size:13px;
+	color:#888888;
+	padding:10px 5px 10px 10px;
+	margin:0px 5px 0px 5px;
+}
+.compintr-aim{
+	background:#FFF;
+	font-size:13px;
+	color:#888888;
+	padding:10px 5px 10px 10px;
+	margin:0px 5px 0px 5px;
+}
