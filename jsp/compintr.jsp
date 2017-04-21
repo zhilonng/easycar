@@ -32,9 +32,9 @@ ul,li{margin:0;list-style:none;padding:0;}
 <body>
 <ul>
 <li>
-<div class="compintr-ul" hover-class="hover-compintr-ul" onclick="fadeCompIntr()" >
-<div class="compintr-item">公司介绍</div>
-<div class="icon1" style="text-align:right;margin-right:5px;">></div>
+<div class="compintr-ul" hover-class="hover-compintr-ul" style="display:flex;flex-wrap:wrap;" onclick="fadeCompIntr()" >
+<div class="compintr-item" style="width:89%">小v是谁?</div>
+<image id="icon1" class="icon1" src="../images/ic_up.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 
 <div id="compintr-content" class="compintr-content" >
@@ -54,84 +54,39 @@ ul,li{margin:0;list-style:none;padding:0;}
 </div>
 </li>
 <li>
-<div id="compintr-ul2" class="compintr-ul" onclick="fadeTimeLine()">
-<div class="compintr-item">发展历程</div>
-<div class="icon1" style="text-align:right;margin-right:5px;">></div>
+<div id="compintr-ul2" class="compintr-ul" style="display:flex;flex-wrap:wrap;" onclick="fadeTimeLine()">
+<div class="compintr-item" style="width:89%">我们的场地</div>
+<image id="icon2" class="icon1" src="../images/ic_down.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 <div id="develop-timeline" class="develop-timeline" style="display:none">
-<div class="timeline" height:"height:initial;width:100%">
-	<div class="timeline-date">
-		<ul>
-			<h2 class="second" style="position: relative;">
-				<span>2013年</span>
-			</h2>
-			<li>
-				<h3>09.03<span>2013</span></h3>
-				<dl class="right">
-					<span>时间轴就要成功了！</span>
-				</dl>
-			</li>
-			<li>
-				<h3>08.15<span>2013</span></h3>
-				<dl class="right">
-					<span>为了时间轴奋斗吧！</span>
-				</dl>
-			</li>
-		</ul>
-	</div>
-	<div class="timeline-date">
-		<ul>
-			<h2 class="second" style="position: relative;">
-				<span>2012年</span>
-			</h2>
-			<li>
-				<h3>09.03<span>2012</span></h3>
-				<dl class="right">
-					<span>那一年的今天！</span>
-				</dl>
-			</li>
-			<h2 class="second" style="position: relative;">
-				<span>2012年</span>
-			</h2>
-			<li>
-				<h3>09.03<span>2012</span></h3>
-				<dl class="right">
-					<span>那一年的今天！</span>
-				</dl>
-			</li>
-			<li>
-				<h3>08.15<span>2012</span></h3>
-				<dl class="right">
-					<span>前端之路慢慢修远！</span>
-				</dl>
-			</li>
-			<li>
-				<h3>08.15<span>2012</span></h3>
-				<dl class="right">
-					<span>前端之路慢慢修远！</span>
-				</dl>
-			</li>
-		</ul>
-	</div>
+<div style="margin-top:10px;font-size:16px;color:#555555;line-height:135%;">我们的训练场：<br />
+天河区：华师地铁e出口，龙洞地铁站<br />
+白云区：同和地铁d出口<br />
+番禺区：会江地铁c出口，南沙港快速（巨星影城北）<br />
+海珠区：万胜围地铁d出口，赤沙牌坊对面
 </div>
 </div>
 </li>
 <li>
-<div class="compintr-ul" onclick="fadeAim()">
-<div class="compintr-item">发展目标</div>
-<div class="icon1" style="text-align:right;margin-right:5px;">></div>
+<div class="compintr-ul" style="display:flex;flex-wrap:wrap;" onclick="fadeAim()">
+<div class="compintr-item" style="width:89%">我们的优势有哪些？</div>
+<image id="icon3" class="icon1" src="../images/ic_down.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 <div class="compintr-aim" style="display:none">
 <image class="swiper-slide" src="../images/car1.jpg" />
-<h4>广州市正通驾驶员培训有限公司（简称广州市正通驾校）。是经上级政府部门，综合验收批准成立的专业型驾驶培训学校，驾校集大型的综合性训练场，汽车实操理论教学于一体，师资力量雄厚，信誉良好，连年被上级部门评为；守合同重信用先进企业以及市级教学质量信誉优等驾校称号。
-广州正通驾校注重企业自身的发展和不断创新，引入先进的教学经营管理理念；一直以来，深受学员的欢迎，为社会培养输送了大量优秀优质的驾驶人才；广州正通驾校一如既往秉承服务第一，质量第    一，信誉第一的最高服务宗旨；热情欢迎社会各届人士前来报名学习汽车驾驶。
-1、现有教练车（小型汽车）：160台
-2、教练员：168人
-3、中级以上职称管理员：21人
-4、大型训练场：2个
-    </h4>
+<div style="margin-top:10px;font-size:16px;color:#555555;line-height:135%;">
+<span style="color:#576b95;">1、“小v”—<span style="font-weight:bold">费用透明</span><br /></span>
+<span style="font-size:13px;">以至尊班为例：基本费用由<span style="font-weight:bold">报考费</span>+<span style="font-weight:bold">不限学时的训练费</span>+<span style="font-weight:bold">来回路费</span></span><br/>
+<span style="color:#576b95;">2、“小v”—<span style="font-weight:bold">不限学时</span><br /></span>
+<span style="font-size:13px;">只要加入小v大家庭，我们就将为您<span style="font-weight:bold">负责到底</span>！</span><br/>
+<span style="color:#576b95;">3、“小v”—<span style="font-weight:bold">因材施教</span><br /></span>
+<span style="font-size:13px;">小v教练组针对不同的学员，将提供不同的教学模式，彻底消除您的后顾之忧</span><br/>
+<span style="color:#576b95;">4、“小v”—<span style="font-weight:bold">免费咨询</span><br /></span>
+<span style="font-size:13px;">小v有强大的客服系统，在您有问题时，可随时在微信公众号 or 微信客服上进行询问，我们将在上班期间第一时间回复您</span><br/>
+</div>
 </div>
 </li>
+
 </ul>
 <div class="logo">@版权由广州好顺驾驶员培训有限公司所有</div>
 </body>
