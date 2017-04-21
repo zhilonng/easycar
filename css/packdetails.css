@@ -47,10 +47,10 @@ body{
 	border-top:1px solid #e0e0e0;
 }
 .clause-image{
-	width:50rpx;
-	height:50rpx;
+	width:60px;
+	height:60px;
 	margin-left:2px;
-	margin:20px 20px 0px 20px;
+	margin:15px 15px 0px 20px;
 }
 details-clause-content{
 	width:70%;
