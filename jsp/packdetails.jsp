@@ -63,7 +63,7 @@ ul,li{margin:0;list-style:none;padding:0;}
  </s:iterator>
 </div>
 </div>
-<a href="#" class="weui_btn weui_btn_primary" style="margin:20px;" onclick="location.href='joinus.jsp'">
+<a href="joinus.jsp" class="weui_btn weui_btn_primary" style="margin:20px;">
 <image style="width:16px;height:16px" src="../images/ic_service.png" />
 立刻咨询
 </a>
