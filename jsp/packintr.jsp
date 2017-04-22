@@ -40,9 +40,9 @@ ul,li{margin:0;list-style:none;padding:0;}
 <!-- Swiper -->
 <div class="swiper-container">
     <div class="swiper-wrapper">
-        <image class="swiper-slide" src="../images/changdi1.jpg" />
-        <image class="swiper-slide" src="../images/changdi2.jpg"/>
-        <image class="swiper-slide" src="../images/changdi3.jpg"/>
+        <image class="swiper-slide" style="height:250px;" src="../images/changdi1.jpg" />
+        <image class="swiper-slide" style="height:250px;" src="../images/changdi2.jpg"/>
+        <image class="swiper-slide" style="height:250px;" src="../images/changdi3.jpg"/>
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>

@@ -71,21 +71,21 @@ background:#FFF;
 
 <image style="width:80px;height:80px;" src="../images/logo.png" />
     
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <div class="details-clause-content" style="width:88%;">
 <div class="details-clause-content-titile">小v名片</div>
 <div class="details-clause-content-content">小v学车是广州市好顺驾驶员培训有限公司推出的互联网学车平台，我们结合互联网，让学车更省心，拿证更快，服务更全，致力于解决学车难服务差的问题。小v学车成立之际即把“服务至上“列为核心理念，学员报名流程化，练车人性化，约考自由化，收费透明化，让学员真真正正感受到学车是一种服务。</div>
 </div>
 <div class="line" style="margin-top:7px;"></div>
 </div>
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">小v宗旨</div>
 <div class="details-clause-content-content">专业教学，悉心服务</div>
 </div>
 <div class="line" style="margin-top:7px;"></div>
 </div>
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">小v学车</div>
 <div class="details-clause-content-content">用心的互联网驾校</div>
@@ -123,7 +123,7 @@ background:#FFF;
 <image id="icon3" class="icon1" src="../images/ic_down.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 <div class="compintr-aim" style="border-top:1px solid #F5F5F5;border-bottom:1px solid #F5F5F5; display:none">
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <image class="clause-image"  src="../images/ic_save.png" />
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">费用透明</div>
@@ -131,7 +131,7 @@ background:#FFF;
 </div>
 <div class="line" style="margin-top:7px;"></div>
 </div>
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <image class="clause-image"  src="../images/ic_baozhang.png" />
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">不限学时</div>
@@ -139,7 +139,7 @@ background:#FFF;
 </div>
 <div class="line" style="margin-top:7px;"></div>
 </div>
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <image class="clause-image"  src="../images/ic_teach2.png" />
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">因材施教</div>
@@ -147,7 +147,7 @@ background:#FFF;
 </div>
 <div class="line" style="margin-top:7px;"></div>
 </div>
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <image class="clause-image"  src="../images/ic_commiunicate2.png" />
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">免费咨询</div>
@@ -163,14 +163,14 @@ background:#FFF;
 <image id="icon4" class="icon1" src="../images/ic_down.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 <div id="join" class="join" style="border-top:1px solid #F5F5F5;border-bottom:1px solid #F5F5F5;display:none">
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">小v客服</div>
 <div class="details-clause-content-content">您可以直接在公众号进行留言，小v有专业的客服在线与您交流。</div>
 </div>
 <div class="line" style="margin-top:7px;"></div>
 </div>
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:0px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile">扫描二维码，加小v客服</div>
 <div class="details-clause-content-content">
