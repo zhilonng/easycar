@@ -40,8 +40,9 @@ ul,li{margin:0;list-style:none;padding:0;}
 <!-- Swiper -->
 <div class="swiper-container">
     <div class="swiper-wrapper">
-        <image class="swiper-slide" src="../images/car1.jpg" />
-        <image class="swiper-slide" src="../images/car2.jpg"/>
+        <image class="swiper-slide" src="../images/changdi1.jpg" />
+        <image class="swiper-slide" src="../images/changdi2.jpg"/>
+        <image class="swiper-slide" src="../images/changdi3.jpg"/>
     </div>
     <!-- Add Pagination -->
     <div class="swiper-pagination"></div>
