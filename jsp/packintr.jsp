@@ -61,7 +61,7 @@ ul,li{margin:0;list-style:none;padding:0;}
 </div>
 
 <div onclick="location.href='seeDetails?id=2'" style="margin:0px 10px 0px 10px;background-color:#FFF;padding:5px;height:115px;list-style:none;border:1px solid #e9e9e9;border-bottom:2px solid #f5f5f5">
-	<div style="float:right;margin-right:5px;border:1px solid #12b7f5;padding:2px 5px;border-radius:100px;color:#12b7f5;font-size:12px;text-align:center;">￥7280元</div>
+	<div style="float:right;margin-right:5px;border:1px solid #12b7f5;padding:2px 5px;border-radius:100px;color:#12b7f5;font-size:12px;text-align:center;">￥6980元</div>
 	<div style="float:left;width:90px;height:90px;text-align:center">
 		<img src="../images/ic_fast.png" style="width:70px;height:70px;padding:8px 10px 12px;margin-top:15px">
 	</div>
