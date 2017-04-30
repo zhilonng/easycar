@@ -64,7 +64,7 @@ background:#FFF;
 <li>
 <div class="compintr-ul" hover-class="hover-compintr-ul" style="display:flex;flex-wrap:wrap;" onclick="fadeCompIntr()" >
 <div class="compintr-item" style="width:89%">小v是谁?</div>
-<image id="icon1" class="icon1" src="../images/ic_up.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
+<image id="icon1" class="icon1" src="../images/ic_up.png" style="width:23px;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 
 <div id="compintr-content" class="compintr-content" style="border-top:1px solid #F5F5F5;border-bottom:1px solid #F5F5F5;" >
@@ -103,7 +103,7 @@ background:#FFF;
 <li>
 <div id="compintr-ul2" class="compintr-ul" style="display:flex;flex-wrap:wrap;" onclick="fadeTimeLine()">
 <div class="compintr-item" style="width:89%">我们的场地</div>
-<image id="icon2" class="icon1" src="../images/ic_down.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
+<image id="icon2" class="icon1" src="../images/ic_down.png" style="width:23px;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 <div id="develop-timeline" class="develop-timeline" style="border-top:1px solid #F5F5F5;border-bottom:1px solid #F5F5F5;display:none">
 <image class="swiper-slide" src="../images/changdi1.jpg" />
@@ -120,7 +120,7 @@ background:#FFF;
 <li>
 <div class="compintr-ul" style="display:flex;flex-wrap:wrap;" onclick="fadeAim()">
 <div class="compintr-item" style="width:89%">我们的优势有哪些？</div>
-<image id="icon3" class="icon1" src="../images/ic_down.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
+<image id="icon3" class="icon1" src="../images/ic_down.png" style="width:23px;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 <div class="compintr-aim" style="border-top:1px solid #F5F5F5;border-bottom:1px solid #F5F5F5; display:none">
 <div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
@@ -160,7 +160,7 @@ background:#FFF;
 <li>
 <div id="compintr-ul2" class="compintr-ul" style="display:flex;flex-wrap:wrap;" onclick="fadeJoin()">
 <div class="compintr-item" style="width:89%">加入我们</div>
-<image id="icon4" class="icon1" src="../images/ic_down.png" style="width:7%;text-align:right;margin-right:5px;"height:7px;></image>
+<image id="icon4" class="icon1" src="../images/ic_down.png" style="width:23px;text-align:right;margin-right:5px;"height:7px;></image>
 </div>
 <div id="join" class="join" style="border-top:1px solid #F5F5F5;border-bottom:1px solid #F5F5F5;display:none">
 <div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:0px 0px 10px 0px">
