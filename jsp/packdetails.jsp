@@ -52,7 +52,7 @@ ul,li{margin:0;list-style:none;padding:0;}
 <div class="clause-name" style="color:#9e9e9e;">服务详情 </div>
 <div class="line" style="margin-top:7px;"></div>
 <s:iterator value="#session.packintr.detailsName" var="detailName" status="vo">
-<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:375px;margin:10px 0px 10px 0px">
+<div class="details-clause-name" style="display:flex;flex-wrap:wrap;width:100%;margin:10px 0px 10px 0px">
 <image class="clause-image"  src="${session.packintr.images[vo.index]}" />
 <div class="details-clause-content" style="width:71%;">
 <div class="details-clause-content-titile"><s:property value="#detailName"/></div>
